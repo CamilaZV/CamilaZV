@@ -13,7 +13,6 @@ React · JavaScript (ES6+) · HTML5 · CSS3 · Bootstrap
 - sviluppo Front End con React  
 - consumo di **API REST**  
 - **best practice**, clean code e responsive design
-- 
 
 ## 🛠️ Tecnologías y herramientas
 
