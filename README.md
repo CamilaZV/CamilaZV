@@ -1,17 +1,19 @@
-# 👋 Hola, soy Camila Zabala
+## 👋 Ciao, sono Camila Zabala
 
-🎯 Desarrolladora web en formación, apasionada por crear aplicaciones prácticas y funcionales con **React**, **JavaScript**, **HTML/CSS** y **Bootstrap**.  
-📍 Colombiana viviendo en  Italia | Buscando oportunidades lavorales como desarrolladora.  
-🎓 Formación 100% online en plataformas como **Udemy**, **FreeCodeCamp**, **Platzi**, **Codecademy**, **TalentForm**.  
-🌱 Actualmente profundizando en desarrollo fullstack, consumo de APIs y buenas prácticas de desarrollo.
-----
-# 👋 Ciao, sono Camila Zabala
+🎯 **Sviluppatrice Front End junior** appassionata della creazione di applicazioni web pratiche, funzionali e responsive.
 
-🎯 **Sviluppatrice Front End junior** con forte interesse nello sviluppo di applicazioni web moderne e scalabili. Lavoro principalmente con **React**, **JavaScript (ES6+)**, **HTML5**, **CSS3** e **Bootstrap**, ponendo attenzione a componentizzazione, stato dell’applicazione e riutilizzabilità del codice.
-📍 Colombiana residente in Italia | Alla ricerca di **opportunità lavorative junior / entry-level come Front End Developer**.  
-🎓 Formazione **100% online** attraverso piattaforme come **Udemy**, **FreeCodeCamp**, **Platzi**, **Codecademy** e **TalentForm**, con sviluppo di **progetti pratici** per consolidare le competenze.
-🌱 Attualmente approfondendo sviluppo Front End con React, consumo di **API REST**, best practice, clean code e responsive design.
----
+🛠 **Tech stack:**  
+React · JavaScript (ES6+) · HTML5 · CSS3 · Bootstrap  
+
+📍 Colombiana residente in Italia | Alla ricerca di **opportunità junior / entry-level come Front End Developer**.
+
+🎓 Formazione **100% online** su **Udemy**, **FreeCodeCamp**, **Platzi**, **Codecademy** e **TalentForm**, con forte focus su **progetti pratici** e apprendimento continuo.
+
+🌱 Attualmente sto approfondendo:
+- sviluppo Front End con React  
+- consumo di **API REST**  
+- **best practice**, clean code e responsive design
+- 
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -31,5 +33,4 @@
 
 ---
 
-*"Estoy en constante aprendizaje, con muchas ganas de aportar y seguir creciendo como desarrolladora web. ¡Gracias por visitar mi perfil!"*
 *"Sono in costante apprendimento, con entusiasmo e voglia di contribuire, continuando a crescere come sviluppatrice web. Grazie per aver visitato il mio profilo!"*
