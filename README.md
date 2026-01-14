@@ -2,9 +2,6 @@
 
 🎯 **Junior Front-End Developer** passionate about building simple, practical, and responsive web applications.
 
-🛠 **Tech Stack:**  
-React · JavaScript (ES6+) · HTML5 · CSS3 · Bootstrap  
-
 📍 Colombian living in Italy | Looking for **junior / entry-level opportunities as a Front-End Developer**, open to remote work.
 
 🎓 **100% online education** through platforms like **Udemy**, **FreeCodeCamp**, **Platzi**, **Codecademy**, and **TalentForm**, with a strong focus on **hands-on projects** and continuous learning.
