@@ -24,7 +24,6 @@
 ---
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/camilazabalav)
-- 💻 [GitHub](https://github.com/CamilaZV)
 - 📧 camiz280211@gmail.com
 
 ---
