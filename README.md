@@ -4,7 +4,7 @@
 
 📍 Colombian living in Italy | Looking for **junior / entry-level opportunities as a Front-End Developer**, open to remote work.
 
-🎓 **100% online education** through platforms like **Udemy**, **FreeCodeCamp**, **Platzi**, **Codecademy**, and **TalentForm**, with a strong focus on **hands-on projects** and continuous learning.
+🎓 **100% online education** through platforms like **Udemy**, **FreeCodeCamp**, **Platzi**, **Codecademy** and **TalentForm** with a strong focus on **hands-on projects** and continuous learning.
 
 🌱 Currently learning and improving:
 - Front-End development with React  
