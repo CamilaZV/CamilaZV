@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Camila Zabala
 
-🎯 **Junior Front-End Developer** passionate about building simple, practical, and responsive web applications.
+🎯 **Junior Front-End Developer** passionate about building simple, practical and responsive web applications.
 
 📍 Colombian living in Italy | Looking for **junior / entry-level opportunities as a Front-End Developer**, open to remote work.
 
@@ -9,7 +9,7 @@
 🌱 Currently learning and improving:
 - Front-End development with React  
 - Working with **REST APIs**  
-- Best practices, clean code, and responsive design
+- Best practices, clean code and responsive design
 
 ## 🛠️ Technologies & Tools
 
